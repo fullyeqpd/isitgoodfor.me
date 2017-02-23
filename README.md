@@ -1,1 +1,2 @@
 # isitgoodfor.me
+lorem ipsum
