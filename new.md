@@ -6,6 +6,6 @@
   </head>
   <body>
     <h1>First comment</h1>
-    <p>first paragraph</p>
+    <p>second paragraph</p>
   </body>
 </html>
